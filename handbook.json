@@ -147,7 +147,7 @@
     "section": "Rules on Student Conduct and Discipline - Acts of Misconduct",
     "content": "Acts of misconduct as herein provided are classified as:\na. Major Offenses: Major offenses include those acts of omission that seriously violate the preservation of life or property or the dignity of the University, its officials, employees or students. These, likewise, include violations of laws and ordinances.\nb. Minor Offenses: All other offenses not listed under the major offenses are classified as minor offenses."
   },
-{
+  {
     "section": "TUP - Vision",
     "content": "The Technological University of the Philippines shall be the premier university of technology and the model of excellence in technology education in the country and in a knowledge-based economy of the 21st century."
   },
@@ -155,11 +155,100 @@
     "section": "TUP - Mission",
     "content": "The mission of TUP is stated in Section 2 of P.D. No. 1518 as follows:\nThe University shall provide higher and advanced vocational, technical, industrial, technological and professional education and training in industries and technology, and in practical arts leading to certificates, diplomas and degrees. It shall provide progressive leadership in applied research, developmental studies in technical, industrial, and technological fields and production using indigenous materials; effect technology transfer in the countryside; and assist in the development of small-and-medium scale industries in identified growth centers."
   },
-{
-  "section": "TUP Hymn",
-  "content": "Kami sa 'yo'y nagpupugay TUP\nAng 'yong tanglaw, liwanag sa aming landas\nDiwa mo'y ginto, pusong wagas\nAlay naming sa iyo'y lahat ng hirap\nBuong pag-ibig at paglilingkod na ganap\nKay dami ng anak na 'yong pinagyaman\nDahil sa 'yo ngayo'y haligi ng bayan\nMoog ka ng laya at dangal\nTeknolohikal na Unibersidad ng Pilipinas\nBantayog ka ng lahi naming minamahal"
-},
-{
-  
-}
+  {
+    "section": "TUP Hymn",
+    "content": "Kami sa 'yo'y nagpupugay TUP\nAng 'yong tanglaw, liwanag sa aming landas\nDiwa mo'y ginto, pusong wagas\nAlay naming sa iyo'y lahat ng hirap\nBuong pag-ibig at paglilingkod na ganap\nKay dami ng anak na 'yong pinagyaman\nDahil sa 'yo ngayo'y haligi ng bayan\nMoog ka ng laya at dangal\nTeknolohikal na Unibersidad ng Pilipinas\nBantayog ka ng lahi naming minamahal"
+  },
+  {
+    "section": "TUP History",
+    "content": "The Technological University of the Philippines has evolved through several phases:\n\n1. Manila Trade School (MTS) 1901-1910: Established under Act No. 74 for trade instruction, originally located near Ateneo de Manila in Intramuros.\n\n2. Philippine School of Arts and Trades (PSAT) 1910-1959: Began offering intermediate and secondary level courses, relocated to current Ermita campus in 1916.\n\n3. Philippine College of Arts and Trades (PCAT) 1959-1978: Converted by RA 2237, authorized to offer baccalaureate and graduate degrees.\n\n4. Technological University of the Philippines (TUP) 1978-present: Established by Presidential Decree No. 1518, became apex of National Polytechnic System through LOI No. 79 in 1978.\n\nExpansion included TUP Taguig (formerly MTI), TUP Visayas (formerly VTI), and TUP Cavite campus established in 1981."
+  },
+  {
+    "section": "TUP Seal (Official Logo)",
+    "content": "Description:\n- 16-cog gear represents 16 specialized course areas\n- Cardinal red symbolizes bravery and purity\n- Gray color represents work\n- Pythagorean Theorem symbol emphasizes mathematics/science relevance\n  - 9 squares: graduate programs\n  - 16 squares: major technology areas\n  - 25 squares: bachelor programs\n- '1901' represents founding year\n\nRegistered with Intellectual Property Office (Certificate No. 4-2012-007718) for 10 years until November 22, 2022"
+  },
+  {
+    "section": "Student Pledge/Agreement",
+    "content": "Key commitments:\n1. Not a member of any illegal organization/fraternity/sorority\n2. Will not join unrecognized organizations during TUP enrollment\n3. Will not engage in drug-related activities\n4. Acknowledges admission as privilege, not right\n5. Accepts University's authority to impose rules on organizations and drug use\n\nConsequences:\n- Violation may lead to dismissal/expulsion\n- Requires signatures of student and parent/guardian (for minors)\n- Must be notarized with thumbprints"
+  },
+  {
+    "section": "Maximum Residency Rule",
+    "content": "Maximum period allowed to complete programs:\n- 3-year programs: 5 years\n- 4-year programs: 6 years\n- 5-year programs: 7 years\n- Master's programs: 5 years\n- Doctorate programs: 7 years\n\nCases beyond these limits subject to VPAA/Campus Director approval"
+  },
+  {
+    "section": "Refund of Fees",
+    "content": "Regular Semester/Term:\n- 100% refund before classes open\n- 70% within 1 week after opening\n- 50% within 2 weeks\n- 30% within 3 weeks\n- No refund after 4 weeks\n\nSummer Term:\n- 100% before opening\n- 70% within 1st day\n- 50% within 2nd day\n- 30% within 3rd day\n- No refund after 4th day\n\nSpecial cases:\n- Full refund (except registration fee) for death/permanent disability\n- Laboratory fees not refunded after 1 week"
+  },
+  {
+    "section": "Industrial Relations and Job Placement Office (IRJP)",
+    "content": "Services:\n- Provides supervised industrial training/OJT opportunities\n- Bridges academic learning with industry demands\n- Facilitates practical application of knowledge\n\nPurpose:\n- Gives students real-world industry experience\n- Enhances curriculum with practical applications\n- Strengthens industry-academe partnership"
+  },
+  {
+    "section": "University Information Technology Center (UITC)",
+    "content": "Responsibilities:\n- Develops/implements ICT systems and policies\n- Supports University vision/mission through technology\n\nComponents:\n- Network and telephone management\n- Web development\n- Applications development\n- Management information system\n- Computer repair and maintenance"
+  },
+  {
+    "section": "TUP Ministry on Campus",
+    "content": "Purpose:\n- Partners with University for spiritual/moral development\n- Forms faith communities on campus\n- Aligns with TUP's vision and values\n\nAffiliation:\n- Under Archdiocese of Manila"
+  },
+  {
+    "section": "Civil Security Office",
+    "content": "Functions:\n- Implements school rules and regulations\n- Maintains peace and order on campus\n- Protects students and personnel\n- Secures University property"
+  },
+  {
+    "section": "Career Guidance and Testing Center",
+    "content": "Services offered:\n1. Individual inventory\n2. Educational/vocational/personal information\n3. Individual and group counseling\n4. School job placement\n5. Follow-up services\n6. Referral system\n\nForms include:\n- Clearance for Returning Students\n- Final Warning Agreement\n- Academic Dismissal Form\n- Leave of Absence/Dropping Request"
+  },
+  {
+    "section": "Student Publication - Philippine Artisan",
+    "content": "Governance:\n- Operates under RA 7079 (Campus Journalism Act of 1991)\n- Oversees official student newspaper\n- Conducts journalism training/seminars\n- Manages publication funds\n\nFunding:\n- Receives P60 from each student's P100 Student Privilege Fee\n- Must submit audited financial reports"
+  },
+  {
+    "section": "Scholarship Categories",
+    "content": "1. Institutionally funded/Internal grants\n2. TUP Employees/Legal Dependents (under CNA)\n3. External Grants:\n   - From industry\n   - From NGOs\n   - From government agencies"
+  },
+  {
+    "section": "Student Group Insurance",
+    "content": "Requirements:\n- Mandatory for all enrolled students\n- Covers accident-related expenses\n\nClaims Process:\n1. Submit to OSA:\n   - Current registration form\n   - Completed claim form\n   - Medical certificate\n   - Official receipts\n2. Processing depends on document completeness"
+  },
+  {
+    "section": "Student Life Development",
+    "content": "Functions:\n1. Accredits student clubs/organizations annually\n2. Monitors student organization activities\n3. Implements rules on student activities/discipline\n4. Recommends University-wide development programs\n\nRequirements for Accreditation:\n- Application letter\n- List of officers with signatures\n- List of members (minimum 25)\n- Constitution and bylaws\n- Activity plans with budget\n- Faculty adviser's letter of intent"
+  },
+  {
+    "section": "Student Privilege Fee (SPF)",
+    "content": "Details:\n- P100 per student per semester\n- Distribution:\n  - P40 to Student Government\n  - P60 to Philippine Artisan\n- Usage requires approved expenditure programs\n- Unexpended balances carry over to next year\n- Budget Office certifies collections"
+  },
+  {
+    "section": "Major Offenses - Selected Examples",
+    "content": "1. Drug-related offenses:\n   - Possession: Dismissal\n   - Selling: Expulsion\n2. Hazing: Dismissal\n3. Deadly weapons:\n   - 1st offense: 1 semester suspension\n   - 2nd offense: Dismissal/Expulsion\n4. Physical assault:\n   - Causing injury: 1 semester suspension\n   - Permanent disability/death: Expulsion\n5. Academic dishonesty:\n   - Plagiarism: 1 semester suspension\n   - 2nd offense: Dismissal\n6. Sexual harassment:\n   - 1st offense: 30-day suspension\n   - 2nd offense: 1 semester suspension\n   - 3rd offense: Dismissal"
+  },
+  {
+    "section": "Minor Offenses - Selected Examples",
+    "content": "1. Uniform violations:\n   - 1st: Warning\n   - 2nd: 10-20 hrs community service\n   - 3rd: 30-50 hrs community service\n2. Classroom disruptions\n3. Unauthorized facility use\n4. Improper use of electronic devices\n5. Public displays of affection\n\nSanctions escalate with repeated offenses"
+  },
+  {
+    "section": "Disciplinary Procedures",
+    "content": "Process for major offenses:\n1. Complaint filed with OSA\n2. Preliminary inquiry\n3. Formal charges filed with Student Disciplinary Tribunal (SDT)\n4. Notice to answer served\n5. Hearing with evidence presentation\n6. Decision within 15 days\n\nAppeals process:\n- To VPAA/Campus Director (for ≤30-day suspensions)\n- To President (for 1-semester suspensions/dismissals)\n- To Board of Regents (final appeal for dismissals)"
+  },
+  {
+    "section": "Student Rights in Disciplinary Cases",
+    "content": "1. To be informed of charges/rights\n2. Presumption of innocence\n3. Self-defense or legal representation\n4. Present evidence\n5. Due process\n\nNote: Pending cases don't prevent academic activities except for graduating students' clearance"
+  },
+  {
+    "section": "Anti-Sexual Harassment Policies",
+    "content": "Based on:\n- RA 7877 (Anti-Sexual Harassment Act of 1995)\n- CHED Memorandum Order No. 26, s. 2003\n\nDefinition:\n- Unwanted sexual advances\n- Requesting sexual favors\n- Creating hostile environment\n\nRequired:\n- Committee on Decorum and Investigation (CODI)\n- Immediate action on complaints\n- Background checks for employees"
+  },
+  {
+    "section": "Anti-Hazing Law Implementation",
+    "content": "Under RA 8049:\n- Requires 7-day advance notice for initiation rites\n- Must have 2 school representatives present\n- Prohibits physical/psychological harm\n\nPenalties:\n- Reclusion perpetua for deaths/rape\n- Reclusion temporal for serious injuries\n- Higher penalties for:\n  - Forced recruitment\n  - Off-campus hazing\n  - Victims below 12"
+  },
+  {
+    "section": "Policy on Student Collections",
+    "content": "Under TUP Order No. 23, s. 2011:\n- Yearbook/graduation activities must be voluntary\n- Requires student resolution for collections\n- TUP Cashier handles all funds\n- Prohibits separate bank accounts\n- Contracts require Campus Director/President approval\n\nProhibits:\n- Unauthorized fees\n- Compulsory contributions\n- Spendthrift activities"
+  },
+  {
+    "section": "Ticket Sales Policy",
+    "content": "Under TUP Order No. 75, s. 2010:\n- Allows admission/raffle ticket sales for:\n  - Charity\n  - Environmental causes\n  - Humanitarian aid\n  - Educational purposes\n- Requires:\n  - Written request\n  - Legitimate organization\n  - Voluntary participation\n- Prohibits solicitation\n- Creates Campus Ticket Committees\n- Requires audited financial reports"
+  }
 ]
