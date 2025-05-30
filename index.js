@@ -6,11 +6,12 @@ const fs = require('fs');
 const axios = require('axios');
 const admin = require('firebase-admin');
 
-// Initialize Firebase
+/// Initialize Firebase
 try {
-  // For development, use the local JSON file
-  const serviceAccount = require(process.env.FIREBASE_KEY_PATH);
-  
+  const serviceAccount = process.env.FIREBASE_KEY_PATH
+    ? require(process.env.FIREBASE_KEY_PATH)           // for Render
+    : require('./firebase-key.json');                  // for local development
+
   admin.initializeApp({
     credential: admin.credential.cert(serviceAccount),
     databaseURL: `https://${serviceAccount.project_id}.firebaseio.com`,
@@ -22,6 +23,7 @@ try {
   console.error('Firebase initialization error:', error);
   process.exit(1);
 }
+
 
 const db = admin.firestore();
 
