@@ -26,11 +26,7 @@ try {
 const db = admin.firestore();
 
 const app = express();
-app.use(cors({
-  origin: 'https://tup-student-handbook-chatbot.web.app',
-  methods: ['POST', 'GET'],
-  credentials: true
-}));
+app.use(cors());
 app.use(express.json());
 
 // Verify OpenRouter API key is set
@@ -44,7 +40,7 @@ async function askAI(prompt) {
     const response = await axios.post(
       'https://openrouter.ai/api/v1/chat/completions',
       {
-        model: "mistralai/mistral-7b-instruct",
+        model: "openai/gpt-3.5-turbo",
         messages: [{ role: "user", content: prompt }]
       },
       {
