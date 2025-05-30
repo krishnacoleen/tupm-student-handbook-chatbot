@@ -26,7 +26,11 @@ try {
 const db = admin.firestore();
 
 const app = express();
-app.use(cors());
+app.use(cors({
+  origin: 'https://tup-student-handbook-chatbot.web.app',
+  methods: ['POST', 'GET'],
+  credentials: true
+}));
 app.use(express.json());
 
 // Verify OpenRouter API key is set
